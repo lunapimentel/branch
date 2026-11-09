@@ -9,5 +9,7 @@
 <body>
     <h1>Exemplo de branch</h1>
     <p>Testando formatação com CSS</p>
+
+    <a href="pagina1.php">Ir para página 1</a>
 </body>
 </html>
