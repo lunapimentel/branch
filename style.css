@@ -14,3 +14,9 @@ p {
     color: rgb(57, 161, 221);
     font-size: 20px;
 }
+a {
+    color: crimson;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
